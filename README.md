@@ -35,11 +35,6 @@
 
 Take a look at my work and projects at **[ignacioaristegui.com](https://ignacioaristegui.com)**.
 
-## 📈 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=nachitoooo&show_icons=true&theme=transparent&hide_border=true)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nachitoooo&layout=compact&theme=transparent&hide_border=true)
-
 ## 📫 Contact
 
 - Email: ignacioaristegui025@gmail.com
